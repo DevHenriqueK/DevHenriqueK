@@ -1,5 +1,5 @@
 <h1 align="center" >Olá, eu sou o Henrique!!!</h1>
-<p align="center" width="80px">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
+<p align="center">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
 
  <div align="center">
    <a href="https://github.com/DevHenriqueK">
