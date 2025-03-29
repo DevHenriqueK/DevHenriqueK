@@ -1,4 +1,4 @@
-<h1 align="center" color="orange"> < Olá, eu sou o Henrique!!! /> </h1>
+<h1 align="center"> < Olá, eu sou o Henrique!!! /> </h1>
 <p align="center">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
 
  <div align="center">
@@ -7,7 +7,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHenriqueK&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div style="display: flex" justify-content="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
