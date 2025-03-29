@@ -1,10 +1,10 @@
 <h1 align="center" >Olá, eu sou o Henrique!!!</h1>
 <p align="center" width="80px">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
 
- <div>
+ <div align="center">
    <a href="https://github.com/DevHenriqueK">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHenriqueK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHenriqueK&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHenriqueK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHenriqueK&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
