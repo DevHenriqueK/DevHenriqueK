@@ -1,4 +1,5 @@
-<h1 align="center" >Olá, eu sou o Henrique!!! </h1>
+<h1 align="center" >Olá, eu sou o Henrique!!!</h1>
+<p width="80px">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
 
  <div>
    <a href="https://github.com/DevHenriqueK">
@@ -14,7 +15,7 @@
  
 <br>
  
-### Quer me conhecer mais? Me siga no Instagram!
+
  
 <div> 
   <a href="https://www.instagram.com/henriqueks2609" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
