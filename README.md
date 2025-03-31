@@ -1,4 +1,4 @@
-<h1 align="center"> <code> < Olá! Eu sou o Henrique! /> 😎🧑🏻‍💻</code> </h1>
+<h1 align="center"> <code> < Olá! Eu sou o Henrique! /></code> </h1>
 <p align="center">Sou um garoto alegre, sonhador e inteligente! Estudo programação desde junho de 2024 e entrei na área graças ao Dev em Dobro.</p>
 
  <div align="center">
